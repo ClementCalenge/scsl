@@ -1,0 +1,5 @@
+useDynLib(scsl)
+import(methods,sp,spdep,maptools)
+importFrom(ade4,neig2mat)
+importFrom(Hmisc,cut2)
+exportPattern("^[[:alpha:]]+")

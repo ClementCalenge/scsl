@@ -1,0 +1,12 @@
+Package: scsl
+Type: Package
+Title: Analysis of the data collected under the small carnivorous
+        species logbook program.
+Depends: R (>= 2.10.0), sp, methods, ade4, spdep, maptools, Hmisc
+Version: 1.0
+Date: 2014-02-27
+Author: Clement Calenge, Joel Chadoeuf, Christophe Giraud, Sylvie Huet, Romain Julliard, Pascal Monestiez, Jeremy Piffady, David Pinaud, Sandrine Ruette
+Maintainer: Clement Calenge <clement.calenge@oncfs.gouv.fr>
+Description: The small carnivorous species logbook program
+License: GPL (>= 2)
+Packaged: 2014-04-23 14:00:27 UTC; calenge
